@@ -23,11 +23,11 @@ const TopNav = () => {
           </div>
         </li>
       </ul>
-      <h1>Trello</h1>
+      <h1>Cello</h1>
       <ul className="user-info">
         <li className="create-icon icon"></li>
-        <li className="split-button-1">VR</li>
-        <li className="split-button-2">Victor Reyes</li>
+        <li className="split-button-1">AJ</li>
+        <li className="split-button-2">Andrew Jones</li>
         <li className="info-icon icon"></li>
         <li className="notifications-icon icon"></li>
       </ul>
